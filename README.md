@@ -19,8 +19,8 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, Framer Motion
-- **Map Integration**: Google Maps API
+- **Frontend**: React.js, Tailwind CSS
+- **Map Integration**:  Maps API
 - **State Management**: React Context API
 - **Animations**: Framer Motion
 - **Design**: Figma prototype (with dark mode & interactions)
