@@ -26,6 +26,8 @@
         <a class="text-[#181311] text-sm font-medium leading-normal" href="features.php">Features</a>
         <a class="text-[#181311] text-sm font-medium leading-normal" href="about.php">About</a>
         <a class="text-[#181311] text-sm font-medium leading-normal" href="contact.php">Contact</a>
+         <a class="text-[#181311] text-sm font-medium leading-normal" href="login.php">Login</a>
+      <!--   <a class="text-[#181311] text-sm font-medium leading-normal" href="contact.php"></a> -->
       </div>
     </nav>
     <!-- Navbar End -->
