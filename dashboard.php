@@ -86,8 +86,13 @@
         <a class="text-[#181311] text-sm font-medium leading-normal" href="features.php">Features</a>
         <a class="text-[#181311] text-sm font-medium leading-normal" href="about.php">About</a>
         <a class="text-[#181311] text-sm font-medium leading-normal" href="contact.php">Contact</a>
+<<<<<<< HEAD
         <a class="text-[#181311] text-sm font-medium leading-normal" href="settings.php">Settings</a>
          <!-- <a class="text-[#181311] text-sm font-medium leading-normal" href="login.php">Login</a> -->
+=======
+         <a class="text-[#181311] text-sm font-medium leading-normal" href="login.php">Login</a>
+      <!--   <a class="text-[#181311] text-sm font-medium leading-normal" href="contact.php"></a> -->
+>>>>>>> 3edd3a5af765e7e7ac42363128f5c4bd032f981c
       </div>
     </nav>
     <!-- Navbar End -->
