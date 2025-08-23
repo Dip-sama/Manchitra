@@ -156,7 +156,7 @@
               </div>
             </div>
             <div class="flex items-center gap-4 bg-white px-4 min-h-14 justify-between">
-              <p class="text-[#181311] text-base font-normal leading-normal flex-1 truncate">Provide Feedback</p>
+              <p class="text-[#181311] text-base font-normal leading-normal flex-1 truncate"><a href="#">Provide Feedback</a></p>
               <div class="shrink-0">
                 <div class="text-[#181311] flex size-7 items-center justify-center" data-icon="CaretRight" data-size="24px" data-weight="regular">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
